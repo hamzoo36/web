@@ -1,5 +1,5 @@
 <?php
-echo "Factorial";
+echo "fabunachi";
 echo "<br>";
 $num = 10;
 $factorial = 1;
